@@ -1,7 +1,4 @@
 # aula62.py
-git init
-git add .
-git commit -m "Initial commit: TensorFlow + Streamlit"
-git branch -M main
-git remote add origin URL_DO_SEU_REPOSITORIO
-git push -u origin main
+git add requirements.txt
+git commit -m "Fix: forcing Python 3.11 and adjusting requirements"
+git push origin main
